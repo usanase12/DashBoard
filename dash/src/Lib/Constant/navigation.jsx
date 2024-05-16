@@ -18,34 +18,34 @@ export const DASHBOARD_SIDEBAR_LINKS = [
 	},
 	{
 		key: 'product',
-		label: 'Product',
+		label: 'course',
 		path: '/product',
 		icon: <HiOutlineCube />
 	},
 	{
 		key: 'orders',
-		label: 'Orders',
+		label: 'USERS/Parents',
 		path: '/orders',
 		icon: <HiOutlineShoppingCart />
 	},
 	{
 		key: 'customers',
-		label: 'Customers',
+		label: 'Anouncements',
 		path: '/customers',
 		icon: <HiOutlineUsers />
 	},
-	{
-		key: 'transactions',
-		label: 'Transactions',
-		path: '/transactions',
-		icon: <HiOutlineDocumentText />
-	},
-	{
-		key: 'messages',
-		label: 'Messages',
-		path: '/messages',
-		icon: <HiOutlineAnnotation />
-	}
+	// {
+	// 	key: 'transactions',
+	// 	label: 'Transactions',
+	// 	path: '/transactions',
+	// 	icon: <HiOutlineDocumentText />
+	// },
+	// {
+	// 	key: 'messages',
+	// 	label: 'Messages',
+	// 	path: '/messages',
+	// 	icon: <HiOutlineAnnotation />
+	// }
 ]
 
 export const DASHBOARD_SIDEBAR_BOTTOM_LINKS = [
